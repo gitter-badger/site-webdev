@@ -1,5 +1,7 @@
 # The webdev site
 
+[![Join the chat at https://gitter.im/dart-lang/site-webdev](https://badges.gitter.im/dart-lang/site-webdev.svg)](https://gitter.im/dart-lang/site-webdev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/dart-lang/site-webdev.svg?branch=master)](https://travis-ci.org/dart-lang/site-webdev)
 [![Join the chat at https://gitter.im/dart-lang/site-webdev](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dart-lang/site-webdev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
